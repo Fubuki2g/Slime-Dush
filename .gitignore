@@ -9,6 +9,14 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/Fonts/*
+/[Aa]ssets/GUIPack-Clean&Minimalist/*
+/[Aa]ssets/PolygonAdventure/*
+/[Aa]ssets/PolygonFantasyHeroCharacters/*
+/[Aa]ssets/PolygonFantasyRivals/*
+/[Aa]ssets/PolygonMini_Fantasy/*
+/[Aa]ssets/Toon Enemies Pack 2/*
+/[Aa]ssets/Toon Loot and Props Pack/*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
